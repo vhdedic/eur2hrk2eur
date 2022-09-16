@@ -1,1 +1,1 @@
-# eur2hrk2eur
+# EUR2HRK2EUR
