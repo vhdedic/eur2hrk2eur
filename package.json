@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/vhdedic/eur2hrk2eur/issues"
   },
-  "homepage": "https://github.com/vhdedic/eur2hrk2eur#readme",
+  "homepage": "https://vhdedic.github.io/eur2hrk2eur/",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "gh-pages": "^4.0.0",
