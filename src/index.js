@@ -1,3 +1,6 @@
+import './style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const title = document.querySelector('h1');
 const title2 = document.querySelector('title');
 const eurInput = document.querySelector('#eur');
