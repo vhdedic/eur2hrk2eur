@@ -2,7 +2,6 @@ import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const title = document.querySelector('h1');
-const title2 = document.querySelector('title');
 const eurInput = document.querySelector('#eur');
 const hrkInput = document.querySelector('#hrk');
 const btn = document.querySelector('#btn');
@@ -24,7 +23,6 @@ btn.addEventListener('click', () => {
     eurInput.disabled = false;
 
     title.textContent = 'EUR2HRK';
-    title2.textContent = title.textContent;
 
     btn.name = "hrk";
     btn.textContent = 'HRK2EUR';
@@ -41,7 +39,6 @@ btn.addEventListener('click', () => {
     hrkInput.disabled = false;
 
     title.textContent = 'HRK2EUR';
-    title2.textContent = title.textContent;
 
     btn.name = "eur";
     btn.textContent = 'EUR2HRK';
